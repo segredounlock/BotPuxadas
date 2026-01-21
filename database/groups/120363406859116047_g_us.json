@@ -1,0 +1,57 @@
+{
+  "id": "120363406859116047@g.us",
+  "name": "Teste puxadas",
+  "description": "",
+  "owner": "65885519786221@lid",
+  "creation": 1766794485,
+  "size": 4,
+  "participants": [
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1767130585660
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1767130585660
+    },
+    {
+      "id": "241033631797397@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1767130585660
+    },
+    {
+      "id": "272799646142623@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1767130585660
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "65885519786221@lid",
+    "241033631797397@lid",
+    "272799646142623@lid"
+  ],
+  "memberCount": 4,
+  "adminCount": 4,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1767130585660,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1767130585660,
+    "activeMembers": 0
+  }
+}

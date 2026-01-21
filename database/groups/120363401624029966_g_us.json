@@ -1,0 +1,86 @@
+{
+  "id": "120363401624029966@g.us",
+  "name": "HACKER TESTE",
+  "description": "",
+  "creation": 1754631528,
+  "size": 8,
+  "participants": [
+    {
+      "id": "264230901162067@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "142327129592057@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "172963282337980@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "111704314793985@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "241033631797397@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "97900155691246@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759464377699
+    },
+    {
+      "id": "77799641612417@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759464377699
+    }
+  ],
+  "admins": [
+    "264230901162067@lid",
+    "142327129592057@lid",
+    "65885519786221@lid",
+    "172963282337980@lid",
+    "111704314793985@lid",
+    "77799641612417@lid"
+  ],
+  "memberCount": 8,
+  "adminCount": 6,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1759464377699,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 21,
+    "lastActivity": 1759464377699,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "120363406290013513@g.us",
+  "name": "Test",
+  "description": "",
+  "owner": "257935032745989@lid",
+  "creation": 1761918460,
+  "size": 4,
+  "participants": [
+    {
+      "id": "257935032745989@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1761950489405
+    },
+    {
+      "id": "207799795593438@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1761950489405
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1761950489405
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1761950489405
+    }
+  ],
+  "admins": [
+    "257935032745989@lid",
+    "65885519786221@lid"
+  ],
+  "memberCount": 4,
+  "adminCount": 2,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1761950489405,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1761950489405,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "id": "120363405404112229@g.us",
+  "name": "Consulta B20",
+  "description": "Use o comando /menu ou /comando para ter acesso aos comandos do bot.\n/placa abc1d23\n/tel 75912345678\n/cpf 12345678900\n/nacional ba 12345678900 (cpf)\n\nUtilidade Policial 👮🏽‍♂️:\nhttps://amk779.github.io/sisac-links/\n(Conjunto de links úteis à atividade PM)",
+  "owner": "231902631956727@lid",
+  "creation": 1768174654,
+  "size": 11,
+  "participants": [
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "124975008710890@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "27376138362924@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "157329064497166@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "263801270206603@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "229939714506998@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "200381866995960@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "231902631956727@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "164385678999745@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "226744342724610@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768757668823
+    },
+    {
+      "id": "258277975789666@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768757668823
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "27376138362924@lid",
+    "157329064497166@lid",
+    "263801270206603@lid",
+    "229939714506998@lid",
+    "200381866995960@lid",
+    "231902631956727@lid",
+    "164385678999745@lid",
+    "226744342724610@lid"
+  ],
+  "memberCount": 11,
+  "adminCount": 9,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1768757668823,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1768757668823,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "120363425043067163@g.us",
+  "name": "Dragonbot",
+  "description": "",
+  "owner": "152076537610285@lid",
+  "creation": 1761674493,
+  "size": 5,
+  "participants": [
+    {
+      "id": "167074395623528@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1761677176130
+    },
+    {
+      "id": "8650198351992@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1761677176130
+    },
+    {
+      "id": "152076537610285@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1761677176130
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1761677176130
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1761677176130
+    }
+  ],
+  "admins": [
+    "152076537610285@lid",
+    "65885519786221@lid"
+  ],
+  "memberCount": 5,
+  "adminCount": 2,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1761677176130,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1761677176130,
+    "activeMembers": 0
+  }
+}

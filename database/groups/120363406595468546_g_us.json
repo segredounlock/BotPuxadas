@@ -1,0 +1,56 @@
+{
+  "id": "120363406595468546@g.us",
+  "name": "Bolt puxadas.",
+  "description": "",
+  "owner": "270007531528246@lid",
+  "creation": 1762201096,
+  "size": 4,
+  "participants": [
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1765330735616
+    },
+    {
+      "id": "270007531528246@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1765330735616
+    },
+    {
+      "id": "146995255754888@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765330735616
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1765330735616
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "270007531528246@lid",
+    "65885519786221@lid"
+  ],
+  "memberCount": 4,
+  "adminCount": 3,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1765330735616,
+  "eventType": "member_removed",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1765330735616,
+    "activeMembers": 0
+  }
+}

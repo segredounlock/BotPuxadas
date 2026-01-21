@@ -1,0 +1,928 @@
+{
+  "id": "120363399944867777@g.us",
+  "name": "༺༒☪️𝑫𝑹𝑨𝑮𝑶𝑵 𝑻𝑹𝑨𝑴𝑷𝑶𝑺☪️༒༻",
+  "description": "☪️ᎪͲᎬΝᏟ̧Ꭺ̊ϴ ҒᎪᎷᏆ́ᏞᏆᎪ☪️\n\nᏟϴᎷᏢᎡᎬᎷ ՏϴᎷᎬΝͲᎬ ᏟϴᎷ ϴՏ ᎪᎠᎷՏ, ՏᎬ ͲϴᎷᎪᎡᎬᎷ ᏀϴᏞᏢᎬ ΝᎪ̊ϴ ᎷᎬ ᎡᎬՏᏢϴΝՏᎪᏴᏆᏞᏆՏϴ",
+  "creation": 1744413638,
+  "size": 127,
+  "participants": [
+    {
+      "id": "178147173642260@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "28888235302937@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "104161597239353@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "131611370721507@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "11854797656310@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "217209397870755@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "259442230726820@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "120151726899319@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "140071818760198@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "183180439089366@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "64541094346819@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "271691645235371@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "140943713894609@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "67487391559841@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "92660094259227@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "277790196801550@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "222273583759402@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "220052733341766@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "93991769010233@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "133693909790883@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "8650198351992@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "56234761801890@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "239861105709067@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "78203402080363@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "147828529737776@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "207524246593662@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "114027288109150@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "56126850781430@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "178181046800387@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "68388797816924@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "177352118116578@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "74698121560230@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "270832198807607@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "94726124503231@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "28617400680574@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "2972150951953@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "165996828557392@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "135759705206945@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "211111014056047@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "258162464710889@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "159528121303160@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "53657060012208@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "185388001980540@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "70115626365043@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "31310496149693@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "272224120475650@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "169308063805475@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "167186517733528@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "7173232926810@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "174891689095174@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "258196253974698@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "134845565030474@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "192307328491573@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "200326602862772@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "279650118979663@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "164755297812600@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "54439197053122@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "148039033479345@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "174865432731784@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "80148938358840@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "70484892848250@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "3509357392082@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "58888430870667@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "254369706561704@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "268929427591365@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "50329148248094@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "201885457858780@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "110947830079598@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "61469823598610@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "89984530923527@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "17378142363885@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "91350095646866@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "121505061064830@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "238173116465404@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "20079525757119@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "78830349906121@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "33814512447663@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "140639106805875@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "24477119303736@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "175986301784122@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "269354830713066@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "33968997019760@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "194729673252866@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "228552440029218@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "149224478007426@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "88064529571980@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "88356788637867@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "113615441002500@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "26668039196813@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "132087508132080@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "130748065550447@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "62152572408003@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "257728203235533@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "60816787284089@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "132998108344545@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "39586763940056@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "157870247166082@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "40957311488098@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "269092669903016@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "271910571090131@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "186234110505180@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "256118160932990@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "130627152138424@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "144908472025175@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "260120399347749@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "198796990492832@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "247373104193649@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "123935576326211@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "261795470176297@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "269415279014067@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "211471824892158@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "253291804025010@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "75372632744155@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "279276624601224@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "268152357290215@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "433825263741@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "245281924874384@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "167925352812575@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "178512329715816@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "130696022634600@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "4372612268128@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "175982661095447@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "48756535853110@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "49387896094819@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    },
+    {
+      "id": "125842978017512@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764598656864
+    }
+  ],
+  "admins": [
+    "178147173642260@lid",
+    "11854797656310@lid",
+    "65885519786221@lid",
+    "93991769010233@lid",
+    "260108235894990@lid",
+    "272224120475650@lid",
+    "7173232926810@lid",
+    "80148938358840@lid",
+    "78830349906121@lid",
+    "88356788637867@lid",
+    "144908472025175@lid",
+    "211471824892158@lid",
+    "253291804025010@lid",
+    "167925352812575@lid"
+  ],
+  "memberCount": 127,
+  "adminCount": 14,
+  "settings": {
+    "announce": true,
+    "restrict": true,
+    "ephemeralDuration": 86400
+  },
+  "lastUpdate": 1764598656864,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 32,
+    "lastActivity": 1764598656864,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "120363424016130758@g.us",
+  "name": "Amizade + hot",
+  "description": "",
+  "owner": "1919850422302@lid",
+  "creation": 1759955598,
+  "size": 8,
+  "participants": [
+    {
+      "id": "13632243032143@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "202619997958386@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "209792089993424@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "211716621234412@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "69729431621639@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "11854797656310@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760518554646
+    },
+    {
+      "id": "1919850422302@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1760518554646
+    }
+  ],
+  "admins": [
+    "1919850422302@lid"
+  ],
+  "memberCount": 8,
+  "adminCount": 1,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1760518554646,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1760518554646,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ACB6B6B8CB25EF7C72BE1C8A6253304D",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759169665844,
+    "type": "text",
+    "content": "!s",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACEB219D84CF921E761EE57370D9AB38",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759171768012,
+    "type": "text",
+    "content": "!togif",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACDCA0DB1152C22E7F65BFEDAABE8A06",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759173465744,
+    "type": "text",
+    "content": "!pinterest Dragon Ball",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC1EC814C3CC1F7496B9BFDF508E520E",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759176352416,
+    "type": "text",
+    "content": "!pinterest Goku",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

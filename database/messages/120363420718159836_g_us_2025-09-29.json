@@ -1,0 +1,90 @@
+[
+  {
+    "id": "AC64E519F95A813C4F496902943CE191",
+    "from": "120363420718159836@g.us",
+    "participant": null,
+    "timestamp": 1759187240189,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC64E519F95A813C4F496902943CE191",
+    "from": "120363420718159836@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759187240391,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC2251A405294B4A599C5DFCD909E4E1",
+    "from": "120363420718159836@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187252223,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC9765B4C1EEC87FB45AC7B7749AB66D",
+    "from": "120363420718159836@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187266152,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "3EB038A077F3A43DD54CED",
+    "from": "120363420718159836@g.us",
+    "participant": "97900155691246@lid",
+    "timestamp": 1759187286941,
+    "type": "unknown",
+    "content": "[Mensagem não suportada]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACB9CD45C34F779388C0D7FF941E5009",
+    "from": "120363420718159836@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759188328974,
+    "type": "unknown",
+    "content": "[Mensagem não suportada]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC577AFD02B75D4143A4B9B0CC206E20",
+    "from": "120363420718159836@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759188331624,
+    "type": "unknown",
+    "content": "[Mensagem não suportada]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5410A289DBF4A4A64A77CBE4377FC2B",
+    "from": "120363420718159836@g.us",
+    "participant": "97900155691246@lid",
+    "timestamp": 1759188384969,
+    "type": "text",
+    "content": "!play Curenge",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

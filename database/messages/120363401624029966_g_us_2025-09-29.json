@@ -1,0 +1,211 @@
+[
+  {
+    "id": "ACB6B6B8CB25EF7C72BE1C8A6253304D",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759169665844,
+    "type": "text",
+    "content": "!s",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACEB219D84CF921E761EE57370D9AB38",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759171768012,
+    "type": "text",
+    "content": "!togif",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACDCA0DB1152C22E7F65BFEDAABE8A06",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759173465744,
+    "type": "text",
+    "content": "!pinterest Dragon Ball",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC1EC814C3CC1F7496B9BFDF508E520E",
+    "from": "120363401624029966@g.us",
+    "participant": "5521987765287@s.whatsapp.net",
+    "timestamp": 1759176352416,
+    "type": "text",
+    "content": "!pinterest Goku",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACB80FA6FA82ECD7D46BCA6DFFDB691F",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759181658447,
+    "type": "text",
+    "content": "!pinterest Goku",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC298D043562E336236B6F9D65F799C2",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759185642956,
+    "type": "text",
+    "content": "!imgpralink",
+    "quoted": true,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A5728C82A042056F2C1EB17ECBA1F0BB",
+    "from": "120363401624029966@g.us",
+    "participant": "97900155691246@lid",
+    "timestamp": 1759186499816,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACEA77A1294C15098332C3DF57D07D96",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759186519846,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACBEBB4AC3A96300779FF408453A820C",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759186529854,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC1750A997F7700E8EB52D9E374176E6",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759186592563,
+    "type": "text",
+    "content": "!cpf 09279600796",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC37CEE267C40262647564DA9DBDC90E",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759186604477,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC3535B3AFEDAB9D1534E46C01712CE7",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759186659112,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC5AE6A10DD36B4ECD82DC599BDC997B",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759186900193,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACF8449518181E35713A9F13F8FA407E",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187064505,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC0F019B5036C38C6C8ECABADFED2684",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187074409,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "A57E8C877F20E7B01E2743A8E17A4CFE",
+    "from": "120363401624029966@g.us",
+    "participant": "97900155691246@lid",
+    "timestamp": 1759187093912,
+    "type": "text",
+    "content": "!menu",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "AC9A060B93857E1EFD722CFF698E0371",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187148238,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACA7E8B84F59F31514521D3A7115B938",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187179867,
+    "type": "text",
+    "content": "/welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  },
+  {
+    "id": "ACE82436284B2889C3915D6001E986E7",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759187194267,
+    "type": "text",
+    "content": "!welcome",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

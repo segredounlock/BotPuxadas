@@ -1,0 +1,56 @@
+{
+  "id": "120363420718159836@g.us",
+  "name": "Teste hacker 02",
+  "description": "",
+  "owner": "65885519786221@lid",
+  "creation": 1758928668,
+  "size": 4,
+  "participants": [
+    {
+      "id": "200712562700474@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759205717587
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1759205717587
+    },
+    {
+      "id": "172963282337980@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759205717587
+    },
+    {
+      "id": "97900155691246@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759205717587
+    }
+  ],
+  "admins": [
+    "200712562700474@lid",
+    "65885519786221@lid",
+    "172963282337980@lid"
+  ],
+  "memberCount": 4,
+  "adminCount": 3,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1759205717587,
+  "eventType": "message_activity",
+  "stats": {
+    "totalMessages": 8,
+    "lastActivity": 1759205717587,
+    "activeMembers": 0
+  }
+}

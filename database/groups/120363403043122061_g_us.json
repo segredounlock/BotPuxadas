@@ -1,0 +1,107 @@
+{
+  "id": "120363403043122061@g.us",
+  "name": "QAP 24 HORAS",
+  "description": "",
+  "owner": "65885519786221@lid",
+  "creation": 1758673513,
+  "size": 11,
+  "participants": [
+    {
+      "id": "10827629334760@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "76661575970938@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "113868525322274@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "164961187827845@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "218043191972059@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "272730456907953@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "232254768963603@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "238649975263439@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "141334673363117@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1763253353706
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1763253353706
+    }
+  ],
+  "admins": [
+    "76661575970938@lid",
+    "164961187827845@lid",
+    "218043191972059@lid",
+    "65885519786221@lid",
+    "260108235894990@lid"
+  ],
+  "memberCount": 11,
+  "adminCount": 5,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1763253353706,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 17,
+    "lastActivity": 1763253353706,
+    "activeMembers": 0
+  }
+}

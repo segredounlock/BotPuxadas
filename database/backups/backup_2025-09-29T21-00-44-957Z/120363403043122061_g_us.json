@@ -1,0 +1,211 @@
+{
+  "id": "120363403043122061@g.us",
+  "name": "QAP 24 HORAS",
+  "description": "",
+  "owner": "5521987765287@s.whatsapp.net",
+  "creation": 1758673513,
+  "size": 26,
+  "participants": [
+    {
+      "id": "5511948741160@s.whatsapp.net",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "5521959534519@s.whatsapp.net",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "5521959582230@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "5521987765287@s.whatsapp.net",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558581247082@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558581570678@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558585790926@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558585903706@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558586288620@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558586514761@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558587136145@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558587355618@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558587662492@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558587812750@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558587883165@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558588118830@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558589270822@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558589668220@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558591040007@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558591637812@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558592357965@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558592380108@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558592418152@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558594090795@s.whatsapp.net",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558596574412@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    },
+    {
+      "id": "558598552503@s.whatsapp.net",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1759173792426
+    }
+  ],
+  "admins": [
+    "5511948741160@s.whatsapp.net",
+    "5521959534519@s.whatsapp.net",
+    "5521987765287@s.whatsapp.net",
+    "558594090795@s.whatsapp.net"
+  ],
+  "memberCount": 26,
+  "adminCount": 4,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1759173792426,
+  "eventType": "message_activity",
+  "stats": {
+    "totalMessages": 15,
+    "lastActivity": 1759173792426,
+    "activeMembers": 2
+  }
+}

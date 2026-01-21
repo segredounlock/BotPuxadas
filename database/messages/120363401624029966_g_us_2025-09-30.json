@@ -1,0 +1,28 @@
+[
+  {
+    "id": "ACEC0C57D226D886A7D57D05CB8731A8",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759205647065,
+    "type": "text",
+    "content": "!ban @23223592828981",
+    "quoted": false,
+    "mentions": [
+      "23223592828981@lid"
+    ],
+    "isFromMe": false
+  },
+  {
+    "id": "AC66427A560957C1C4CB25881187E387",
+    "from": "120363401624029966@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759205681123,
+    "type": "text",
+    "content": "!ban @97900155691246",
+    "quoted": false,
+    "mentions": [
+      "97900155691246@lid"
+    ],
+    "isFromMe": false
+  }
+]

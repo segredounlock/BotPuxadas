@@ -1,0 +1,213 @@
+{
+  "id": "120363405881431048@g.us",
+  "name": "G&G 🔍CONSULTAS E PUXADAS 🌟",
+  "description": "",
+  "owner": "208465498783960@lid",
+  "creation": 1764624566,
+  "size": 26,
+  "participants": [
+    {
+      "id": "97964513038437@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "56526131699765@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "40751119474852@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "197324286484601@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "246930571530430@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "244022912229451@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "68006914846868@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "92544214032626@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "176614054821932@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "51716372312285@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "4132345778345@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "208465498783960@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "94313941868776@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "251990747652327@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "147837656498330@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "219945828921484@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "10823971954714@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "242004848029889@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "28218706948124@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "49633313210411@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "178899044560993@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "54005019476062@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "45737660420125@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    },
+    {
+      "id": "156848548221080@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1766434780899
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "197324286484601@lid",
+    "65885519786221@lid",
+    "208465498783960@lid",
+    "147837656498330@lid"
+  ],
+  "memberCount": 26,
+  "adminCount": 5,
+  "settings": {
+    "announce": false,
+    "restrict": true,
+    "ephemeralDuration": 86400
+  },
+  "lastUpdate": 1766434780899,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1766434780899,
+    "activeMembers": 0
+  }
+}

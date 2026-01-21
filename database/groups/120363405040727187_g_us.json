@@ -1,0 +1,107 @@
+{
+  "id": "120363405040727187@g.us",
+  "name": "Puxadas do DON1🎭",
+  "description": "AQUI SÓ TEM PUXADAS\nNADA DE DIVULGAÇÃO A NÃO SER O ADM,QUALIDADE DE PUXADAS É AQUI🎭🤝",
+  "owner": "7344461201649@lid",
+  "creation": 1757272404,
+  "size": 11,
+  "participants": [
+    {
+      "id": "7344461201649@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "198444870283485@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "46472200470586@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "240742110879834@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "227371894476992@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "38586590224595@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "113632167882864@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "167925352812575@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1760976756989
+    },
+    {
+      "id": "132121901400146@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1760976756989
+    }
+  ],
+  "admins": [
+    "7344461201649@lid",
+    "46472200470586@lid",
+    "65885519786221@lid",
+    "260108235894990@lid",
+    "167925352812575@lid"
+  ],
+  "memberCount": 11,
+  "adminCount": 5,
+  "settings": {
+    "announce": false,
+    "restrict": true
+  },
+  "lastUpdate": 1760976756989,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1760976756989,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "120363425752867598@g.us",
+  "name": "Bora fé",
+  "description": "",
+  "owner": "251952009076942@lid",
+  "creation": 1767661844,
+  "size": 19,
+  "participants": [
+    {
+      "id": "97964513038437@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "219945828921484@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "10823971954714@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "28218706948124@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "178899044560993@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "140901368238086@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "177481604681743@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "251952009076942@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "145303760052398@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "160744150704280@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "95744065310766@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "219348979425437@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "269230746407150@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "163209478688971@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "82889295266029@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "23180710252707@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768335105225
+    },
+    {
+      "id": "79332911353910@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768335105225
+    }
+  ],
+  "admins": [
+    "97964513038437@lid",
+    "155160676413442@lid",
+    "65885519786221@lid",
+    "251952009076942@lid",
+    "163209478688971@lid",
+    "79332911353910@lid"
+  ],
+  "memberCount": 19,
+  "adminCount": 6,
+  "settings": {
+    "announce": false,
+    "restrict": false,
+    "ephemeralDuration": 86400
+  },
+  "lastUpdate": 1768335105225,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1768335105225,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "120363423975744665@g.us",
+  "name": "🆘️consultas",
+  "description": "",
+  "owner": "271163179679853@lid",
+  "creation": 1761390591,
+  "size": 4,
+  "participants": [
+    {
+      "id": "271163179679853@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1761869409703
+    },
+    {
+      "id": "23034211602499@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1761869409703
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1761869409703
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1761869409703
+    }
+  ],
+  "admins": [
+    "271163179679853@lid",
+    "65885519786221@lid",
+    "260108235894990@lid"
+  ],
+  "memberCount": 4,
+  "adminCount": 3,
+  "settings": {
+    "announce": true,
+    "restrict": false,
+    "ephemeralDuration": 86400
+  },
+  "lastUpdate": 1761869409703,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1761869409703,
+    "activeMembers": 0
+  }
+}

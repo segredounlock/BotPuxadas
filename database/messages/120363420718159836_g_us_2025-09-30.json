@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ACC1203BDA111917B2E3E18F9A00E8D5",
+    "from": "120363420718159836@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759205711908,
+    "type": "text",
+    "content": "!ban @97900155691246",
+    "quoted": false,
+    "mentions": [
+      "97900155691246@lid"
+    ],
+    "isFromMe": false
+  },
+  {
+    "id": "AC3FB4AF5684D7F6C25190D2FBC3BB87",
+    "from": "120363420718159836@g.us",
+    "participant": "65885519786221@lid",
+    "timestamp": 1759205717596,
+    "type": "unknown",
+    "content": "[Mensagem não suportada]",
+    "quoted": false,
+    "mentions": [],
+    "isFromMe": false
+  }
+]

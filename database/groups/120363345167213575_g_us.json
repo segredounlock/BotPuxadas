@@ -1,0 +1,169 @@
+{
+  "id": "120363345167213575@g.us",
+  "name": "TROPA DA OAB  👨🏻‍⚖⚖️",
+  "description": "METAS 🔥\n\n*1- 100k mando 100 Chips da vivo via correio. 📲*\n*2- 50K mando 50 Chips da vivo via correio. 📲*\n*3- 25K mando 25 Chips da vivo via correio. 📲*\n\n*RESUMIU FICHA 📑 ?    JÁ DEIXA A CONTA PRA DEPÓSITO*",
+  "owner": "181002941014251@lid",
+  "creation": 1731447085,
+  "size": 20,
+  "participants": [
+    {
+      "id": "237237350432917@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "230279570583635@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "9797474717897@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "2401390063747@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "41120755142893@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "248924157771864@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "227874221121663@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "82537074409478@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "86964514644008@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "134974296572098@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "116441596563669@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "242434311205019@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "143516701327587@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "105162995716219@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "205974400958583@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "116965146366011@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "123403621167350@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    },
+    {
+      "id": "43663308632135@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1765829301911
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "116441596563669@lid",
+    "65885519786221@lid"
+  ],
+  "memberCount": 20,
+  "adminCount": 3,
+  "settings": {
+    "announce": false,
+    "restrict": true,
+    "ephemeralDuration": 86400
+  },
+  "lastUpdate": 1765829301911,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1765829301911,
+    "activeMembers": 0
+  }
+}

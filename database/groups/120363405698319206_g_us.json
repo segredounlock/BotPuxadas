@@ -1,0 +1,48 @@
+{
+  "id": "120363405698319206@g.us",
+  "name": "CINZENTO",
+  "description": "",
+  "owner": "274500553826368@lid",
+  "creation": 1768343242,
+  "size": 3,
+  "participants": [
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768343633662
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768343633662
+    },
+    {
+      "id": "274500553826368@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1768343633662
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "274500553826368@lid"
+  ],
+  "memberCount": 3,
+  "adminCount": 2,
+  "settings": {
+    "announce": false,
+    "restrict": false
+  },
+  "lastUpdate": 1768343633662,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1768343633662,
+    "activeMembers": 0
+  }
+}

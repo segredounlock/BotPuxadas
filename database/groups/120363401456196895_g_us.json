@@ -1,0 +1,123 @@
+{
+  "id": "120363401456196895@g.us",
+  "name": "DUDU CONSULTAS 🎲🔎",
+  "description": "",
+  "owner": "241098240843798@lid",
+  "creation": 1752881225,
+  "size": 13,
+  "participants": [
+    {
+      "id": "205617281118369@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "72306462343185@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "241098240843798@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "150895102800115@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "56517491482753@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "211733851410450@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "146522926772316@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "11631408988198@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "92509938184441@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "172739306496085@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768093886676
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768093886676
+    }
+  ],
+  "admins": [
+    "241098240843798@lid",
+    "150895102800115@lid",
+    "56517491482753@lid",
+    "155160676413442@lid",
+    "65885519786221@lid",
+    "260108235894990@lid"
+  ],
+  "memberCount": 13,
+  "adminCount": 6,
+  "settings": {
+    "announce": false,
+    "restrict": true,
+    "ephemeralDuration": 86400
+  },
+  "lastUpdate": 1768093886676,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1768093886676,
+    "activeMembers": 0
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "id": "120363423110072324@g.us",
+  "name": "༺ Code__Dev⳹༻",
+  "description": "🐉_ Regras _Oficiais _ 🐲                              Grupo                                                 \nAqui      Respeito   é base.\n    ✨ _Alma da Referência Online \n tentar puxada indevida será banido sem aviso.\n\n$Proibido negociar no PV sem autorização.                     Chamou no privado e deu golpe? BAN nos dois.$\n\n/ADM não chama no privado.Recebeu mensagem? Print e manda pra ADM.\n\n🥋Sem divulgação  sem permissão                     Quer anunciar? https://t.me/divulgacao7meragon.                     ALMA_DO_TRAMPO.                                   [ https://chat.whatsapp.com/HXQeSjONfwc4v7kH6uCVdP ]                           Use o grupo de divulgação oficial.\n  https://chat.whatsapp.com/IpmxTDrzXEQ0KSE2Rssesc.  \n\n🥂Não flode de comandos seguidos espere ate 45 segundos para o proximo puxadas.                 🧭Teste \n✨️✨️Assim Que  Grupo ao Bot /menu               https://chat.whatsapp.com/CeHLPiRNNmh1D78qOxCZd4?mode=hqrt2.                              ___✨️✨️\n🧿Denúncias só com provas.Prints, áudios ou vídeos claros.\n\n✨  é   Atual.ALMA_DO_TRAMPO ⁰⁰2BOT",
+  "owner": "65885519786221@lid",
+  "creation": 1763684631,
+  "size": 22,
+  "participants": [
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "103904402489511@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "15887604150355@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "73113899389114@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "45780727517347@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "61469823598610@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "178563382796360@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "11854797656310@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "119812676137037@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "269092669903016@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "222488550236264@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "199759583301677@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "135252899037426@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "71915569979459@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "68582356582453@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "256474542522386@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "29588046520550@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "93991769010233@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "13074534821940@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    },
+    {
+      "id": "107701321371709@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1768388438985
+    }
+  ],
+  "admins": [
+    "155160676413442@lid",
+    "65885519786221@lid",
+    "11854797656310@lid",
+    "260108235894990@lid",
+    "93991769010233@lid"
+  ],
+  "memberCount": 22,
+  "adminCount": 5,
+  "settings": {
+    "announce": false,
+    "restrict": true
+  },
+  "lastUpdate": 1768388438985,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1768388438985,
+    "activeMembers": 0
+  }
+}

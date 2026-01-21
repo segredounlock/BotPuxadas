@@ -1,0 +1,80 @@
+{
+  "id": "120363420732959609@g.us",
+  "name": "𝑩𝑼𝑺𝑪𝑨𝑫𝑶𝑹𝑬𝑺",
+  "description": "Como usar os comandos?\n\n✔️ Todos os comandos começam com a /\n✔️ Use os modelos abaixo para teste;\n\n/nome TANIA MARA MOYSES\n\n/nome2 TANIA MARA MOYSES\n\n/cpf 00000000191 (Só números)\n\n/cpf2 00000000191 (Só números)\n\n/pix2 ANA LUISA OLIVEIRA ALVES 534888 (consulta pix exibir cpf completo)\n\n/fotorj 11396397736 (fotos do Rio do Janeiro)\n\n/nacional ma 00055627323 (puxa foto do Maranhão)\n\n/nacional sp 48532998828 (puxa foto de São Paulo)\n\n/telefone 19999872127 (consultar telefone)\n\n/tel 19999872127 (consultar telefone)\n\n/cnpj 27865757000102 (Só números)\n\n/cnpj2 27865757000102 (Só números)\n\n/email joaosilva@gmail.com \n\n/placa OGT0458\n\n/placa2 OGT0458\n\n/placa7 OGT0458\n\n/chassi 9C2K000000BR0000",
+  "owner": "64652511813667@lid",
+  "creation": 1762351596,
+  "size": 7,
+  "participants": [
+    {
+      "id": "83550200176659@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1762568010490
+    },
+    {
+      "id": "64652511813667@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1762568010490
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1762568010490
+    },
+    {
+      "id": "260108235894990@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1762568010490
+    },
+    {
+      "id": "34347558166776@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1762568010490
+    },
+    {
+      "id": "34038286930057@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1762568010490
+    },
+    {
+      "id": "109079938732070@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1762568010490
+    }
+  ],
+  "admins": [
+    "64652511813667@lid",
+    "65885519786221@lid",
+    "260108235894990@lid",
+    "34347558166776@lid",
+    "34038286930057@lid",
+    "109079938732070@lid"
+  ],
+  "memberCount": 7,
+  "adminCount": 6,
+  "settings": {
+    "announce": false,
+    "restrict": true
+  },
+  "lastUpdate": 1762568010490,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1762568010490,
+    "activeMembers": 0
+  }
+}

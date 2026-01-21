@@ -1,0 +1,73 @@
+{
+  "id": "120363419589102401@g.us",
+  "name": "🔍 CONSULTAS 🔎",
+  "description": "",
+  "owner": "255228934881499@lid",
+  "creation": 1747834827,
+  "size": 6,
+  "participants": [
+    {
+      "id": "256294288142588@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764942502191
+    },
+    {
+      "id": "155160676413442@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764942502191
+    },
+    {
+      "id": "65885519786221@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764942502191
+    },
+    {
+      "id": "255228934881499@lid",
+      "admin": "superadmin",
+      "superAdmin": true,
+      "isAdmin": true,
+      "joinedAt": 1764942502191
+    },
+    {
+      "id": "151518611259582@lid",
+      "admin": "admin",
+      "superAdmin": false,
+      "isAdmin": true,
+      "joinedAt": 1764942502191
+    },
+    {
+      "id": "19087539318874@lid",
+      "admin": null,
+      "superAdmin": false,
+      "isAdmin": false,
+      "joinedAt": 1764942502191
+    }
+  ],
+  "admins": [
+    "256294288142588@lid",
+    "155160676413442@lid",
+    "65885519786221@lid",
+    "255228934881499@lid",
+    "151518611259582@lid"
+  ],
+  "memberCount": 6,
+  "adminCount": 5,
+  "settings": {
+    "announce": false,
+    "restrict": true,
+    "ephemeralDuration": 604800
+  },
+  "lastUpdate": 1764942502191,
+  "eventType": "member_added",
+  "stats": {
+    "totalMessages": 0,
+    "lastActivity": 1764942502191,
+    "activeMembers": 0
+  }
+}
