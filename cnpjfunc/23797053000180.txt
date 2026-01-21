@@ -1,0 +1,1037 @@
+╭━━━⬣👥 *FUNCIONÁRIOS DO CNPJ* ⬣━━━╮
+┃ *CNPJ:* 23.797.053/0001-80
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯( 139 ) FUNCIONÁRIOS DA EMPRESA - 23797053000180
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 46585486668
+┃ NOME ⎯ ANTONIO COSTA GARAVINI
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO-ADMINISTRADOR
+┃ DATA ADMISSÃO 1 ⎯ 1973-03-20
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-19
+┃ DATA DEMISSÃO 2 ⎯ 2017-01-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 56867549691
+┃ NOME ⎯ MARIA ALICE GARAVINI SOARES
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO
+┃ DATA ADMISSÃO 1 ⎯ 1973-03-20
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-19
+┃ DATA DEMISSÃO 2 ⎯ 2017-01-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 65745639849
+┃ NOME ⎯ WANDA GARAVINI
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO
+┃ DATA ADMISSÃO 1 ⎯ 1973-03-20
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-19
+┃ DATA DEMISSÃO 2 ⎯ 2017-01-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 46585486668
+┃ NOME ⎯ ANTONIO COSTA GARAVINI
+┃ FUNÇÃO ⎯ Representante Legal
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-01-31
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2018-01-31
+┃ DATA DEMISSÃO 2 ⎯ 2018-01-31
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 72117443672
+┃ NOME ⎯ JOSE FERREIRA DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 1996-01-02
+┃ DATA DEMISSÃO 1 ⎯ 2020-09-26
+┃ DATA ADMISSÃO 2 ⎯ 2021-09-27
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 25134035687
+┃ NOME ⎯ JOSE CELSO GERALDO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2000-12-05
+┃ DATA DEMISSÃO 1 ⎯ 2020-05-28
+┃ DATA ADMISSÃO 2 ⎯ 2021-09-26
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 73183008653
+┃ NOME ⎯ CIDENISIO ALVES VIEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2001-07-13
+┃ DATA DEMISSÃO 1 ⎯ 2020-10-17
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-26
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00157491692
+┃ NOME ⎯ ARLINDO GOMES DOS SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2003-07-01
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-09
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 85158003653
+┃ NOME ⎯ JACQUELINE FERNANDES DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2003-08-04
+┃ DATA DEMISSÃO 1 ⎯ 2008-11-22
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 50747347620
+┃ NOME ⎯ GERALDO MOTTA SOARES
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2004-03-08
+┃ DATA DEMISSÃO 1 ⎯ 2014-07-22
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07853053606
+┃ NOME ⎯ MARCOS JOSE GOMES FERREIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2004-07-26
+┃ DATA DEMISSÃO 1 ⎯ 2008-04-17
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 77710436668
+┃ NOME ⎯ JUARES LUCIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2004-10-07
+┃ DATA DEMISSÃO 1 ⎯ 2008-02-13
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 82435995687
+┃ NOME ⎯ ROSAURA RODRIGUES GUEDES
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2004-10-07
+┃ DATA DEMISSÃO 1 ⎯ 2018-03-22
+┃ DATA ADMISSÃO 2 ⎯ 2019-07-01
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 89088522634
+┃ NOME ⎯ WAGNER LUCIANO FERREIRA DIAS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2004-10-07
+┃ DATA DEMISSÃO 1 ⎯ 2008-07-31
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 89015240663
+┃ NOME ⎯ EDIVAN DOS SANTOS HIGINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2004-10-07
+┃ DATA DEMISSÃO 1 ⎯ 2008-10-01
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09142181666
+┃ NOME ⎯ JONATHAS WILLIAM CONEGUNDES FELIX
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2005-02-21
+┃ DATA DEMISSÃO 1 ⎯ 2008-11-26
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00058681655
+┃ NOME ⎯ LUCIANO APARECIDO DE PAULA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2005-04-05
+┃ DATA DEMISSÃO 1 ⎯ 2008-01-13
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 99801493615
+┃ NOME ⎯ ANISIO DE JESUS NASCIMENTO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2005-04-05
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-12-24
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 89008502615
+┃ NOME ⎯ MAYRE REGINA CAMPOS SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2005-06-08
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-05
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 86309587668
+┃ NOME ⎯ IRENE DO CARMO HIGINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2005-07-04
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-24
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 58289011687
+┃ NOME ⎯ MARIA DE FATIMA DOS SANTOS DIAS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2005-09-01
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-05
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 99346443634
+┃ NOME ⎯ LEONARDO JUSTINIANO ARANTES
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2006-01-23
+┃ DATA DEMISSÃO 1 ⎯ 2008-06-11
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07506170639
+┃ NOME ⎯ ANGELO LEANDRO HERCULANO DA CRUZ
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2006-06-01
+┃ DATA DEMISSÃO 1 ⎯ 2008-06-13
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 72425512691
+┃ NOME ⎯ RONIVON MATEUS DOS SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2006-07-12
+┃ DATA DEMISSÃO 1 ⎯ 2008-03-29
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 08694285606
+┃ NOME ⎯ MARCOS VINICIUS MILAGRES DOMINGOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2007-09-01
+┃ DATA DEMISSÃO 1 ⎯ 2008-07-11
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 01507495625
+┃ NOME ⎯ WELLINGTON FREIRE APOLINARIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2007-10-08
+┃ DATA DEMISSÃO 1 ⎯ 2008-06-13
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00431454850
+┃ NOME ⎯ MANOEL ANTONIO GUIMARAES NETO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-02-15
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-09-26
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 87148633672
+┃ NOME ⎯ GERSON CARLOS FERREIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-03-01
+┃ DATA DEMISSÃO 1 ⎯ 2012-07-24
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03301103650
+┃ NOME ⎯ DENILSON ARAUJO BARBOSA DOS SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-04-03
+┃ DATA DEMISSÃO 1 ⎯ 2012-10-08
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 08558079625
+┃ NOME ⎯ FILIPE LEAL GOMES DE OLIVEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-05-02
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-04
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03617265626
+┃ NOME ⎯ WELLINGTON MACHADO CONCEICAO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-05-05
+┃ DATA DEMISSÃO 1 ⎯ 2008-07-07
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09474353603
+┃ NOME ⎯ THIAGO RODRIGUES TEMOTEO DE OLIVEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-05-21
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-02-08
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09756170603
+┃ NOME ⎯ GILSON MARCOS DE AQUINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-06-02
+┃ DATA DEMISSÃO 1 ⎯ 2008-07-21
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10269068651
+┃ NOME ⎯ MARCOS VINICIUS LUCIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2008-07-14
+┃ DATA DEMISSÃO 1 ⎯ 2014-03-01
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00058681655
+┃ NOME ⎯ LUCIANO APARECIDO DE PAULA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2009-05-04
+┃ DATA DEMISSÃO 1 ⎯ 2012-03-02
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09142181666
+┃ NOME ⎯ JONATHAS WILLIAM CONEGUNDES FELIX
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2009-05-04
+┃ DATA DEMISSÃO 1 ⎯ 2014-05-21
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06728556664
+┃ NOME ⎯ MOISES MOREIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2009-09-02
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-14
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 31607861615
+┃ NOME ⎯ JOSE BASILIO ROSA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2009-11-03
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-09-25
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10951491644
+┃ NOME ⎯ JOSE ADAO DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2010-04-01
+┃ DATA DEMISSÃO 1 ⎯ 2014-08-13
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06566241671
+┃ NOME ⎯ MARCELO APARECIDO DE PAULA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2010-07-26
+┃ DATA DEMISSÃO 1 ⎯ 2020-01-01
+┃ DATA ADMISSÃO 2 ⎯ 2021-08-24
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11081676671
+┃ NOME ⎯ LUCAS BALTTAZAR PEDRO DE PAIVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2010-08-09
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-16
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07981173620
+┃ NOME ⎯ GILBERTO DE CASTRO ARAUJO JUNIOR
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2010-08-23
+┃ DATA DEMISSÃO 1 ⎯ 2016-02-25
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02153361788
+┃ NOME ⎯ ANTONIO JOSE DAMASCENO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-04-01
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-28
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09529286635
+┃ NOME ⎯ TIAGO HENRIQUE MARTINS ROCHA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-05-16
+┃ DATA DEMISSÃO 1 ⎯ 2012-10-03
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12049036620
+┃ NOME ⎯ JOSE GERALDO CUSTODIO DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-05-17
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-16
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10619164646
+┃ NOME ⎯ UEVERTON GERALDO GOMES CATARINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-06-01
+┃ DATA DEMISSÃO 1 ⎯ 2012-10-30
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 08797169676
+┃ NOME ⎯ ELAINE MARIA FELICIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-09-01
+┃ DATA DEMISSÃO 1 ⎯ 2012-03-31
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09402042660
+┃ NOME ⎯ ALINI APARECIDA DE ASSIS REIS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-09-05
+┃ DATA DEMISSÃO 1 ⎯ 2012-12-08
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10431321639
+┃ NOME ⎯ THIAGO BERGAMINI DE ANDRADE
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-01-16
+┃ DATA DEMISSÃO 1 ⎯ 2012-04-14
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11739763610
+┃ NOME ⎯ MATHEUS CARVALHO OLIVEIRA CASTRO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-02-01
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-22
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 93567251600
+┃ NOME ⎯ ALEX ISIDERIO DE SOUSA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-02-06
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-06
+┃ DATA DEMISSÃO 2 ⎯ 2021-11-06
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 77707710649
+┃ NOME ⎯ NELSON GONCALVES ARLINDO VIEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-04-02
+┃ DATA DEMISSÃO 1 ⎯ 2014-02-27
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09970985620
+┃ NOME ⎯ PABLO CICERO MACHADO DE LIMA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-04-16
+┃ DATA DEMISSÃO 1 ⎯ 2012-05-30
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09791659621
+┃ NOME ⎯ ALVARO JUNIOR MARTINS SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-05-14
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-02-09
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 35448601634
+┃ NOME ⎯ PASTOR BENEDITO BERNARDINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-06-18
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-09-30
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12327440696
+┃ NOME ⎯ SAMUEL CUPERTINO VIEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-09-01
+┃ DATA DEMISSÃO 1 ⎯ 2012-11-29
+┃ DATA ADMISSÃO 2 ⎯ Sem Informação
+┃ DATA DEMISSÃO 2 ⎯ Sem Informação
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00157491692
+┃ NOME ⎯ ARLINDO GOMES DOS SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-12-01
+┃ DATA DEMISSÃO 1 ⎯ 2018-02-18
+┃ DATA ADMISSÃO 2 ⎯ 2019-07-01
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10202967638
+┃ NOME ⎯ CICERO TADEU RIBEIRO DE SOUZA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-12-11
+┃ DATA DEMISSÃO 1 ⎯ 2014-03-27
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 87148633672
+┃ NOME ⎯ GERSON CARLOS FERREIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-03-01
+┃ DATA DEMISSÃO 1 ⎯ 2016-04-23
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06721415666
+┃ NOME ⎯ ELTON LAZARINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-03-01
+┃ DATA DEMISSÃO 1 ⎯ 2016-03-29
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00124668674
+┃ NOME ⎯ JOSE MAURO DE CARVALHO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-08-01
+┃ DATA DEMISSÃO 1 ⎯ 2016-06-21
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 23113146615
+┃ NOME ⎯ ANTONIO CARLOS DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-09-02
+┃ DATA DEMISSÃO 1 ⎯ 2014-01-31
+┃ DATA ADMISSÃO 2 ⎯ 2016-07-07
+┃ DATA DEMISSÃO 2 ⎯ 2016-07-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09484431623
+┃ NOME ⎯ TALITA DOS SANTOS DIAS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-10-01
+┃ DATA DEMISSÃO 1 ⎯ 2016-10-14
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 01638067805
+┃ NOME ⎯ APARECIDO FLORENCIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-01-02
+┃ DATA DEMISSÃO 1 ⎯ 2020-03-04
+┃ DATA ADMISSÃO 2 ⎯ 2021-09-29
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03301103650
+┃ NOME ⎯ DENILSON ARAUJO BARBOSA DOS SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-01-02
+┃ DATA DEMISSÃO 1 ⎯ 2016-11-22
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10619164646
+┃ NOME ⎯ UEVERTON GERALDO GOMES CATARINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-01-02
+┃ DATA DEMISSÃO 1 ⎯ 2016-11-18
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 60680741615
+┃ NOME ⎯ WANDER HELDER ROCHA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-01-13
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-08
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12948710642
+┃ NOME ⎯ FRANCISCO HENRIQUE SOARES FILHO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-01-13
+┃ DATA DEMISSÃO 1 ⎯ 2016-01-19
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06965468688
+┃ NOME ⎯ ELIAS DAMASIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-06-02
+┃ DATA DEMISSÃO 1 ⎯ 2016-05-21
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10044665601
+┃ NOME ⎯ SEBASTIAO CAETANO DE OLIVEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-06-02
+┃ DATA DEMISSÃO 1 ⎯ 2018-10-12
+┃ DATA ADMISSÃO 2 ⎯ 2019-07-01
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 04974582682
+┃ NOME ⎯ NIVALDO VIEIRA DA SILVA JUNIOR
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-08-01
+┃ DATA DEMISSÃO 1 ⎯ 2016-12-15
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06893026650
+┃ NOME ⎯ ANTONIO CAETANO DE ALMEIDA NETO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-08-01
+┃ DATA DEMISSÃO 1 ⎯ 2020-10-04
+┃ DATA ADMISSÃO 2 ⎯ 2022-02-07
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03645782621
+┃ NOME ⎯ ARLINDO LAZARINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-09-01
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-05
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11033144673
+┃ NOME ⎯ MARCOS ELISIO DE SOUZA VITORIANO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2014-09-01
+┃ DATA DEMISSÃO 1 ⎯ 2016-10-25
+┃ DATA ADMISSÃO 2 ⎯ 2017-12-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 85158003653
+┃ NOME ⎯ JACQUELINE FERNANDES DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2015-03-02
+┃ DATA DEMISSÃO 1 ⎯ 2019-05-08
+┃ DATA ADMISSÃO 2 ⎯ 2020-10-16
+┃ DATA DEMISSÃO 2 ⎯ 2017-12-16
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12412893608
+┃ NOME ⎯ LUCAS EUZEBIO AGRIPINO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2015-03-02
+┃ DATA DEMISSÃO 1 ⎯ 2018-11-03
+┃ DATA ADMISSÃO 2 ⎯ 2019-07-01
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12693732697
+┃ NOME ⎯ SAYMON WALLACE RODRIGO DA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-01-09
+┃ DATA DEMISSÃO 1 ⎯ 2019-05-06
+┃ DATA ADMISSÃO 2 ⎯ 2020-06-24
+┃ DATA DEMISSÃO 2 ⎯ 2020-06-24
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 26523980839
+┃ NOME ⎯ JANETE VITORIANO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-03-06
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-21
+┃ DATA DEMISSÃO 2 ⎯ 2021-11-21
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03301103650
+┃ NOME ⎯ DENILSON ARAUJO BARBOSA DOS SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-10-02
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-14
+┃ DATA DEMISSÃO 2 ⎯ 2021-11-14
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11033144673
+┃ NOME ⎯ MARCOS ELISIO DE SOUZA VITORIANO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-10-02
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-01-11
+┃ DATA DEMISSÃO 2 ⎯ 2020-01-28
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02066902667
+┃ NOME ⎯ SANDY MARIA DE OLIVEIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-05-02
+┃ DATA DEMISSÃO 1 ⎯ 2018-11-05
+┃ DATA ADMISSÃO 2 ⎯ 2019-07-01
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02088439650
+┃ NOME ⎯ KARINA CRISTINA SILVA DOS REIS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-07-02
+┃ DATA DEMISSÃO 1 ⎯ 2019-01-11
+┃ DATA ADMISSÃO 2 ⎯ 2021-02-03
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00000000000
+┃ NOME ⎯ 
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-07-02
+┃ DATA DEMISSÃO 1 ⎯ 2018-10-06
+┃ DATA ADMISSÃO 2 ⎯ 2019-07-01
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10269068651
+┃ NOME ⎯ MARCOS VINICIUS LUCIO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-09-02
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-01-11
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 87148633672
+┃ NOME ⎯ GERSON CARLOS FERREIRA
+┃ DATA ADMISSÃO ⎯ 01/03/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06721415666
+┃ NOME ⎯ ELTON LAZARINO
+┃ DATA ADMISSÃO ⎯ 01/03/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06893026650
+┃ NOME ⎯ ANTONIO CAETANO DE ALMEIDA NETO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02958314642
+┃ NOME ⎯ JOAO BOSCO DA SILVA UBALDO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00431454850
+┃ NOME ⎯ MANOEL ANTONIO GUIMARAES NETO
+┃ DATA ADMISSÃO ⎯ 19/12/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 95372601787
+┃ NOME ⎯ ROSIMAR SIQUEIRA DE ABREU
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 23113146615
+┃ NOME ⎯ ANTONIO CARLOS DA SILVA
+┃ DATA ADMISSÃO ⎯ 02/09/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07131071625
+┃ NOME ⎯ ALEXANDRE ALVES ARAGAO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07981173620
+┃ NOME ⎯ GILBERTO DE CASTRO ARAUJO JUNIOR
+┃ DATA ADMISSÃO ⎯ 14/07/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 99801493615
+┃ NOME ⎯ ANISIO DE JESUS NASCIMENTO
+┃ DATA ADMISSÃO ⎯ 05/04/2005
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 01611266696
+┃ NOME ⎯ PEDRO RANIELLE LANA ANDRE
+┃ DATA ADMISSÃO ⎯ 19/12/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 58289011687
+┃ NOME ⎯ MARIA DE FATIMA DOS SANTOS DIAS
+┃ DATA ADMISSÃO ⎯ 01/09/2005
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09474353603
+┃ NOME ⎯ THIAGO RODRIGUES TEMOTEO DE OLIVEIRA
+┃ DATA ADMISSÃO ⎯ 19/12/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09791659621
+┃ NOME ⎯ ALVARO JUNIOR MARTINS SILVA
+┃ DATA ADMISSÃO ⎯ 14/05/2012
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 89008502615
+┃ NOME ⎯ MAYRE REGINA CAMPOS SILVA
+┃ DATA ADMISSÃO ⎯ 08/06/2005
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09142181666
+┃ NOME ⎯ JONATHAS WILLIAM CONEGUNDES FELIX
+┃ DATA ADMISSÃO ⎯ 27/01/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10202967638
+┃ NOME ⎯ CICERO TADEU RIBEIRO DE SOUZA
+┃ DATA ADMISSÃO ⎯ 11/06/2024
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09484431623
+┃ NOME ⎯ TALITA DOS SANTOS DIAS
+┃ DATA ADMISSÃO ⎯ 01/10/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10269068651
+┃ NOME ⎯ MARCOS VINICIUS LUCIO
+┃ DATA ADMISSÃO ⎯ 19/12/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10619164646
+┃ NOME ⎯ UEVERTON GERALDO GOMES CATARINO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10951491644
+┃ NOME ⎯ JOSE ADAO DA SILVA
+┃ DATA ADMISSÃO ⎯ 14/07/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 73183008653
+┃ NOME ⎯ CIDENISIO ALVES VIEIRA
+┃ DATA ADMISSÃO ⎯ 13/07/2001
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12948710642
+┃ NOME ⎯ FRANCISCO HENRIQUE SOARES FILHO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 77707710649
+┃ NOME ⎯ NELSON GONCALVES ARLINDO VIEIRA
+┃ DATA ADMISSÃO ⎯ 02/05/2024
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 01638067805
+┃ NOME ⎯ APARECIDO FLORENCIO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02153361788
+┃ NOME ⎯ ANTONIO JOSE DAMASCENO
+┃ DATA ADMISSÃO ⎯ 01/04/2011
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 35448601634
+┃ NOME ⎯ PASTOR BENEDITO BERNARDINO
+┃ DATA ADMISSÃO ⎯ 18/06/2012
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 31607861615
+┃ NOME ⎯ JOSE BASILIO ROSA
+┃ DATA ADMISSÃO ⎯ 27/01/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 60680741615
+┃ NOME ⎯ WANDER HELDER ROCHA
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 86309587668
+┃ NOME ⎯ IRENE DO CARMO HIGINO
+┃ DATA ADMISSÃO ⎯ 04/07/2005
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03301103650
+┃ NOME ⎯ DENILSON ARAUJO BARBOSA DOS SANTOS
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 77710436668
+┃ NOME ⎯ JUARES LUCIO
+┃ DATA ADMISSÃO ⎯ 03/01/2024
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06566241671
+┃ NOME ⎯ MARCELO APARECIDO DE PAULA
+┃ DATA ADMISSÃO ⎯ 14/07/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 50747347620
+┃ NOME ⎯ GERALDO MOTTA SOARES
+┃ DATA ADMISSÃO ⎯ 08/03/2004
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00157491692
+┃ NOME ⎯ ARLINDO GOMES DOS SANTOS
+┃ DATA ADMISSÃO ⎯ 01/06/2024
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 06965468688
+┃ NOME ⎯ ELIAS DAMASIO
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 72117443672
+┃ NOME ⎯ JOSE FERREIRA DA SILVA
+┃ DATA ADMISSÃO ⎯ 02/01/1996
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 93567251600
+┃ NOME ⎯ ALEX ISIDERIO DE SOUSA
+┃ DATA ADMISSÃO ⎯ 06/02/2024
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00124668674
+┃ NOME ⎯ JOSE MAURO DE CARVALHO
+┃ DATA ADMISSÃO ⎯ 01/08/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 82435995687
+┃ NOME ⎯ ROSAURA RODRIGUES GUEDES
+┃ DATA ADMISSÃO ⎯ 07/10/2004
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 25134035687
+┃ NOME ⎯ JOSE CELSO GERALDO
+┃ DATA ADMISSÃO ⎯ 05/12/2000
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07897208680
+┃ NOME ⎯ JOAO PAULO DE SOUZA
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 03/09/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 85158003653
+┃ NOME ⎯ JACQUELINE FERNANDES
+┃ DATA ADMISSÃO ⎯ 27/01/2023
+┃ DATA DEMISSÃO ⎯ 04/06/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 70743983653
+┃ NOME ⎯ GLAUCIA MARIA RIBEIRO DA SILVA
+┃ DATA ADMISSÃO ⎯ 03/02/2011
+┃ DATA DEMISSÃO ⎯ 03/12/2023
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10995874689
+┃ NOME ⎯ RAFAEL QUINTILIANO SOLAR
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 14/01/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11089739656
+┃ NOME ⎯ JOSE EDUARDO DA SILVA
+┃ DATA ADMISSÃO ⎯ 01/06/2011
+┃ DATA DEMISSÃO ⎯ 14/10/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10842303642
+┃ NOME ⎯ MATHAWS HENRIQUE FELIX SOUZA
+┃ DATA ADMISSÃO ⎯ 27/01/2023
+┃ DATA DEMISSÃO ⎯ 03/09/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 10198171609
+┃ NOME ⎯ RICARDO XAVIER LIMA
+┃ DATA ADMISSÃO ⎯ 31/05/2023
+┃ DATA DEMISSÃO ⎯ 14/10/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09556723684
+┃ NOME ⎯ DIEGO MARTINS ROCHA
+┃ DATA ADMISSÃO ⎯ 01/09/2011
+┃ DATA DEMISSÃO ⎯ 18/12/2023
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11033144673
+┃ NOME ⎯ MARCOS ELISIO DE SOUZA VITORIANO
+┃ DATA ADMISSÃO ⎯ 14/07/2023
+┃ DATA DEMISSÃO ⎯ 03/12/2023
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 11305413636
+┃ NOME ⎯ SAMUEL GALINHARES BARCIA
+┃ DATA ADMISSÃO ⎯ 24/06/2023
+┃ DATA DEMISSÃO ⎯ 03/12/2023
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12550746635
+┃ NOME ⎯ AMANDA FERNANDES LOPES DE MELO
+┃ DATA ADMISSÃO ⎯ 22/04/2023
+┃ DATA DEMISSÃO ⎯ 19/08/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 03645782621
+┃ NOME ⎯ ARLINDO LAZARINO
+┃ DATA ADMISSÃO ⎯ 01/06/2011
+┃ DATA DEMISSÃO ⎯ 26/11/2023
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 00058681655
+┃ NOME ⎯ LUCIANO APARECIDO DE PAULA
+┃ DATA ADMISSÃO ⎯ 01/10/2012
+┃ DATA DEMISSÃO ⎯ 09/10/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02694186602
+┃ NOME ⎯ GILMAR ARLINDO AMERICO
+┃ DATA ADMISSÃO ⎯ 01/08/2023
+┃ DATA DEMISSÃO ⎯ 16/09/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+╰━━━━━━━━━━━━━━⬣

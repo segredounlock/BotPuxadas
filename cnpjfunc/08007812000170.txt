@@ -1,0 +1,203 @@
+╭━━━⬣👥 *FUNCIONÁRIOS DO CNPJ* ⬣━━━╮
+┃ *CNPJ:* 08.007.812/0001-70
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯( 25 ) FUNCIONÁRIOS DA EMPRESA - 08007812000170
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 08059177800
+┃ NOME ⎯ NEYMAR DA SILVA SANTOS
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO-ADMINISTRADOR
+┃ DATA ADMISSÃO 1 ⎯ 2006-05-09
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-30
+┃ DATA DEMISSÃO 2 ⎯ 2017-01-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 12121502874
+┃ NOME ⎯ NADINE GONCALVES
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO-ADMINISTRADOR
+┃ DATA ADMISSÃO 1 ⎯ 2006-05-09
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-30
+┃ DATA DEMISSÃO 2 ⎯ 2017-01-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 08059177800
+┃ NOME ⎯ NEYMAR DA SILVA SANTOS
+┃ FUNÇÃO ⎯ Representante Legal
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-03-07
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2018-03-07
+┃ DATA DEMISSÃO 2 ⎯ 2018-03-07
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 29140130860
+┃ NOME ⎯ ISMAEL SANTOS DE SOUZA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-06-01
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-03-09
+┃ DATA DEMISSÃO 2 ⎯ 2017-09-30
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 27409408820
+┃ NOME ⎯ DIEGO PORTO DAMAS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2011-09-01
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-01-24
+┃ DATA DEMISSÃO 2 ⎯ 2017-09-30
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 39750681835
+┃ NOME ⎯ JENIFFER DA SILVA SANTOS COSTA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2012-07-19
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-02-23
+┃ DATA DEMISSÃO 2 ⎯ 2017-09-30
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 37195610896
+┃ NOME ⎯ GABRIELY CRISTINA FERREIRA MOREIRA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-01-04
+┃ DATA DEMISSÃO 1 ⎯ 2019-10-06
+┃ DATA ADMISSÃO 2 ⎯ 2021-04-05
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 04835183878
+┃ NOME ⎯ JOSE BENICIO DA SILVA SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-11-19
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-01-20
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 41437920870
+┃ NOME ⎯ RAYSSA COSTA SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2013-12-10
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-02-18
+┃ DATA DEMISSÃO 2 ⎯ 2017-09-30
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 26504027846
+┃ NOME ⎯ JOELMA PORTO ARAGAO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2015-07-08
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-24
+┃ DATA DEMISSÃO 2 ⎯ 2021-10-24
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 34761486880
+┃ NOME ⎯ SILVANA IZABEL DE JESUS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2015-08-10
+┃ DATA DEMISSÃO 1 ⎯ 2020-02-19
+┃ DATA ADMISSÃO 2 ⎯ 2021-12-26
+┃ DATA DEMISSÃO 2 ⎯ 2019-07-01
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 30732327881
+┃ NOME ⎯ GABRIELA LAURA TRAMANNONI POZZI
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-05-01
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-12-28
+┃ DATA DEMISSÃO 2 ⎯ 2020-04-08
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 40033561877
+┃ NOME ⎯ MARCEL CALIXTO SANTOS
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-06-01
+┃ DATA DEMISSÃO 1 ⎯ 2019-09-05
+┃ DATA ADMISSÃO 2 ⎯ 2021-04-06
+┃ DATA DEMISSÃO 2 ⎯ 2020-04-05
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 16235697880
+┃ NOME ⎯ ALEXANDRE DE FIGUEIREDO BERNARDO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2017-12-04
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-10-29
+┃ DATA DEMISSÃO 2 ⎯ 2021-10-29
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 25056520829
+┃ NOME ⎯ MARCELA YAGO ALVES JUSTO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2018-09-12
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-12-15
+┃ DATA DEMISSÃO 2 ⎯ 2021-12-15
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 27230227810
+┃ NOME ⎯ CLAUDIO LUCILDO COSTA SILVA
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2019-07-22
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-20
+┃ DATA DEMISSÃO 2 ⎯ 2020-10-21
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 36996176883
+┃ NOME ⎯ THAIS CRISTINA MOTTA CARDOSO
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2019-07-24
+┃ DATA DEMISSÃO 1 ⎯ 2019-10-02
+┃ DATA ADMISSÃO 2 ⎯ 2021-04-05
+┃ DATA DEMISSÃO 2 ⎯ 2021-04-05
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 24767836840
+┃ NOME ⎯ GABRIELA RIBEIRO FERRAZ
+┃ FUNÇÃO ⎯ Funcionário Comum
+┃ CARGO ⎯ 
+┃ DATA ADMISSÃO 1 ⎯ 2019-11-18
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2021-11-08
+┃ DATA DEMISSÃO 2 ⎯ 2021-11-08
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 04835183878
+┃ NOME ⎯ JOSE BENICIO DA SILVA SANTOS
+┃ DATA ADMISSÃO ⎯ 19/11/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 29140130860
+┃ NOME ⎯ ISMAEL SANTOS DE SOUZA
+┃ DATA ADMISSÃO ⎯ 01/06/2011
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 37195610896
+┃ NOME ⎯ GABRIELY CRISTINA FERREIRA COSTA
+┃ DATA ADMISSÃO ⎯ 04/01/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 27409408820
+┃ NOME ⎯ DIEGO PORTO DAMAS
+┃ DATA ADMISSÃO ⎯ 01/09/2011
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 41437920870
+┃ NOME ⎯ RAYSSA COSTA SANTOS
+┃ DATA ADMISSÃO ⎯ 10/12/2023
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 39750681835
+┃ NOME ⎯ JENIFFER DA SILVA SANTOS COSTA
+┃ DATA ADMISSÃO ⎯ 19/07/2012
+┃ DATA DEMISSÃO ⎯ 31/12/-1
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 02562565860
+┃ NOME ⎯ ELIANE DE SOUZA GOMES
+┃ DATA ADMISSÃO ⎯ 04/01/2023
+┃ DATA DEMISSÃO ⎯ 09/10/2024
+┃━━━━━━━━━━━━━━━━━━━━━━━
+╰━━━━━━━━━━━━━━⬣

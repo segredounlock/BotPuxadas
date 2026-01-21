@@ -1,0 +1,1139 @@
+╭━━━⬣🏢 *CONSULTA CNPJ - DRAGON PUXADAS* ⬣━━━╮
+┃ *CNPJ:* *79151312000156*
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ 🔎 *CNPJ ⎯ 79151312000156
+RAZÃO SOCIAL ⎯ UNIVERSIDADE EST DE MARINGA
+NOME FANTASIA ⎯ UEM
+DATA FUNDAÇÃO ⎯ 1970-11-04
+NATUREZA JURÍDICA ⎯ Autarquia Estadual ou do Distrito Federal
+QUANTIDADE DE FUNCIONÁRIOS ⎯ 503
+TIPO DE EMPRESA ⎯ 
+CAPITAL SOCIAL ⎯ 
+RAMO ⎯ Administração Pública
+
+CPF REPRESENTANTE ⎯ 
+
+SÓCIOS: ( 0 - Encontrados)
+
+SÓCIOS INVÁLIDOS: ( 0 - Encontrados)
+
+EMAILS ( 1 - Encontrados)
+• alepajolla@uol.com.br
+
+FUNCIONÁRIOS: ( 100 - Encontrados)
+• 
+CPF: 01901158829
+NOME: JULIO SANTIAGO PRATES FILHO
+FUNÇÃO: Quadro de Sócios
+CARGO: SOCIO-ADMINISTRADOR
+DATA ADMISSÃO 1: 1970-11-04
+DATA DEMISSÃO 1: 2016-09-14
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 38738651904
+NOME: MAURO LUCIANO BAESSO
+FUNÇÃO: Quadro de Sócios
+CARGO: SOCIO-ADMINISTRADOR
+DATA ADMISSÃO 1: 1970-11-04
+DATA DEMISSÃO 1: 2016-09-14
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 32321228920
+NOME: ZENILDA SOARES BELTRAMI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1975-02-14
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 19064071934
+NOME: DECIO SPERANDIO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1975-05-08
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 24041556953
+NOME: SILVESTRE ALCZUK
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1975-08-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 32555873953
+NOME: MARIA HELENA SARRAGIOTTO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1976-08-02
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 27834298968
+NOME: GISELLA MARIA ZANIN
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1976-08-09
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 30545455987
+NOME: MARIA DO CARMO DE SOUZA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1976-10-20
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 06967809920
+NOME: NILSON BENEDITO LOPES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1977-03-10
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 14331357953
+NOME: PEDRO IRINEU ANDRIOLI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1977-04-29
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 32568398949
+NOME: JOSE DIVINO RAMOS
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1977-07-08
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 51142635872
+NOME: RAFAEL CAMPOS BEZERRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1977-08-08
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 24034100982
+NOME: HELCIO DO PRADO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1977-08-15
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 41298535972
+NOME: VALTER DONIZETE IORI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1977-10-03
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 08334242972
+NOME: VALDEMIR SPIGAR
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-01-02
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 20480520968
+NOME: JOSE ANTONIO DE MOURA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-01-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 29958172968
+NOME: OSNI PEREIRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-03-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 28009932949
+NOME: MARIA INEZ BOCALON REBOLA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-03-29
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 17501784949
+NOME: RUBENS DE OLIVEIRA SILVA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-07-06
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 74705008804
+NOME: PAULO CEZAR DE FREITAS MATHIAS
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-08-14
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 19880260910
+NOME: BENEDITO PRADO DIAS FILHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-08-14
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 23946300944
+NOME: AGNES MUNHOZ RUBIRA BABATA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1978-11-13
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 23619767904
+NOME: JOSE EDUARDO OLIVO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1979-02-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 07871384015
+NOME: GENTIL VANINI DE MORAES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1979-03-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 58188509949
+NOME: ELIANA APARECIDA HEBERLE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1979-06-07
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 42411246900
+NOME: DIVA CANDIDA GARCIA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1979-08-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 84770759800
+NOME: ALTAIR BERTONHA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1980-02-26
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 38878968900
+NOME: CLARICE GRAVENA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1980-04-22
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 48580708915
+NOME: HILDA DE CARVALHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1980-05-12
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 56935064872
+NOME: JULIO CESAR PIGOZZO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1980-08-12
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 42409667953
+NOME: ORIVALDO PALTANIN DE GODOI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1980-09-05
+DATA DEMISSÃO 1: 2016-12-27
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 27831701915
+NOME: REINALDO DE CASTRO SORIANI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1980-09-22
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 05311748400
+NOME: MARIA CELESTE GONCALVES VIDIGAL
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-03-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 37713914668
+NOME: JOSE MARCOS DE BASTOS ANDRADE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-03-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 80377408891
+NOME: OSVALDO FERRARESE FILHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-03-17
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 51785935968
+NOME: SERGIO RENATO GARCIA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-04-02
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 20529201968
+NOME: JOAQUIM JOSE DE SOUSA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-04-10
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 57089353915
+NOME: GILMAR BECKER
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-05-12
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 42478391953
+NOME: ELIANE BERENICE SILVA DOS SANTOS
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-06-01
+DATA DEMISSÃO 1: 2012-08-01
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 45771006904
+NOME: AMAURY LUCIANO PEREIRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-06-02
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 59676167991
+NOME: NEUCI DE FREITAS
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-06-10
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 38743280900
+NOME: NARA VILLANOVA MENON
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-08-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 34956859953
+NOME: JOAO DALBELLO FILHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-10-05
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 44956762968
+NOME: NILTON LOPES DE SOUZA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-10-19
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 52770001949
+NOME: JOAO CARLOS TORQUETTI RODRIGUES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1981-12-22
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 57132534904
+NOME: PEDRO DANEZI FILHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-02-04
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 28158725953
+NOME: MARCELINO LUIZ GIMENES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 28302605620
+NOME: PEDRO SOARES VIDIGAL FILHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-04
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 61009962787
+NOME: ROSANGELA GETIRANA SANTANA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-05
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 01977397840
+NOME: VERONICA ELISA PIMENTA VICENTINI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-05
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 81562934872
+NOME: LUIZ CARLOS CORREA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-09
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 39727718949
+NOME: ROSANE MARINA PERALTA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-09
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 66897246972
+NOME: HERMES DE SOUZA BARBOZA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-03-11
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 39767990925
+NOME: ALVARO RUBIO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-05-10
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 41391675991
+NOME: CARLOS YOSHIHIRO SAKIYAMA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-05-20
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 49853058987
+NOME: JUAREZ ANTONIO DA SILVA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-06-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 53291697987
+NOME: RONALDO RANIERI BEZERRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-06-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 63424886904
+NOME: RICARDO GUIMARAES SANTANA COUTINHO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-06-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 55578390978
+NOME: PEDRO PAULO DEPRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-06-07
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 48790540972
+NOME: HILDEBERTO VASCONCELOS DA SILVA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-06-21
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 48312916920
+NOME: FRANCISCO JOSE DA CRUZ
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-06-21
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 10758704968
+NOME: KIYOMI HIROSE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-08-04
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 46015965991
+NOME: APARECIDO ROBERTO DAVANCO PORTELA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-08-09
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 76268217853
+NOME: MARIA APARECIDA FERNANDEZ
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-08-11
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 32837127949
+NOME: AIRTON DELFINO ANDRADE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-08-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 49709534904
+NOME: IDINEU VOLPONI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-08-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 48922790997
+NOME: ALICE BATISTA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-08-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 49660632991
+NOME: VALMIR DURANTE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-09-27
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 52744884987
+NOME: VANDERLEI GRZEGORCZYK
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1982-12-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 47448180991
+NOME: CLAUDEMIR DA CRUZ ANDRADE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-02-07
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 92597688887
+NOME: YOLANDA SHIZUE AOKI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-03-07
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 94114200878
+NOME: MARIA EUGENIA MOREIRA COSTA FERREIRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-03-07
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 36031968991
+NOME: SONIA SILVA MARCON
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-03-07
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 52690725991
+NOME: SONIA LETICIA DE MELLO CARDOSO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-05-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 52823040900
+NOME: CELIO APARECIDO PASSOLONGO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-10-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 55578713904
+NOME: OSMAR PASSOLONGO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-10-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 51685825915
+NOME: ANTONIO DONIZETE MORAES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-10-03
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 41313500925
+NOME: ILMO CAMPANERUTI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1983-11-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 52724883934
+NOME: JOAO LUIZ SUTER
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-02-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 27613305953
+NOME: DELFIN VAZ
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-02-21
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 28609255034
+NOME: ANDREA PAESANO JUNIOR
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-03-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 28198760997
+NOME: CECILIA ALEXANDRE DE OLIVEIRA REMOLLI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-03-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 66863945991
+NOME: DENILSON DO AMARAL
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-03-01
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 55937390997
+NOME: VALDELINO GONZALES COSTA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-03-12
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 63453088972
+NOME: LEOCLIDES GIACOMIN
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-04-02
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 44912510963
+NOME: MARCIO HIDEKI BABATA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-04-02
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 54865042920
+NOME: NEIDE DA SILVA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-04-09
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 46016279900
+NOME: PAULO FERNANDO SOARES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-04-09
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 03670461809
+NOME: ELIZABETH AMANCIO DE SOUZA DA SILVA VALSECCHI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-04-25
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 21105065987
+NOME: VALDOMIRO HIGINO PEREIRA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-06-05
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 51749378949
+NOME: MARIA REGINA DA FONSECA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-06-11
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 56666489934
+NOME: FERNANDO FRANCO QUEIROZ
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-06-18
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 03109279860
+NOME: EDSON TOCHIAKI MORIBE
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-06-18
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 51890852953
+NOME: DELSO HEERDT
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-06-18
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 10835067149
+NOME: NEWTON FERNANDES FIGUEIREDO
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-07-03
+DATA DEMISSÃO 1: 2014-09-27
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 55937365968
+NOME: ALICINDO VIEIRA DOS SANTOS
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-07-16
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 32578032904
+NOME: JOSE ROBERTO DE LIMA GARCIA
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-07-18
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 46726144920
+NOME: AMARILDO VICENTINI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-07-23
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 61768570906
+NOME: SANDRA MAYUMI MIKUNI
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-07-23
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+• 
+CPF: 46901540906
+NOME: VALTER GONCALVES
+FUNÇÃO: Funcionário Comum
+CARGO: null
+DATA ADMISSÃO 1: 1984-08-08
+DATA DEMISSÃO 1: Sem Informação ou Provável Permanência
+DATA ADMISSÃO 2: null
+DATA DEMISSÃO 2: null
+
+TELEFONES: ( 100 - Encontrados)
+• 4434298009
+• 4435218705
+• 4434298007
+• 4434298008
+• 4435218704
+• 4434298000
+• 4432248620
+• 4434298006
+• 4434298011
+• 4436751879
+• 4435218700
+• 4435218702
+• 4435218701
+• 4435218703
+• 4435218707
+• 4435218708
+• 4432614300
+• 4434298001
+• 4434298002
+• 4436751779
+• 4434298010
+• 4434298003
+• 4435218706
+• 4435218709
+• 4432746172
+• 4432653883
+• 4432614200
+• 4444326143
+• 4432252026
+• 4432631399
+• 4432254138
+• 4432258583
+• 4432637541
+• 4432254101
+• 4432258557
+• 4432627336
+• 4432255457
+• 4432621161
+• 4432244922
+• 4432254926
+• 4432258605
+• 4432633833
+• 4432253860
+• 4432614230
+• 4432655504
+• 4432637423
+• 4432635510
+• 4432250920
+• 4334722139
+• 4232258605
+• 4436219300
+• 4432631424
+• 4434298042
+• 4432671197
+• 4434298004
+• 4436219326
+• 32961404000
+• 4435222262
+• 4436194022
+• 4436219301
+• 4432287172
+• 4436194000
+• 4436219411
+• 4436219499
+• 4432635476
+• 4435218742
+• 4434271207
+• 4436219400
+• 44984086474
+• 44984123759
+• 4432614235
+• 4432618600
+• 4432618601
+• 4432618602
+• 4432618603
+• 4432618604
+• 4432618605
+• 4432618606
+• 4432618607
+• 4432618608
+• 4432618609
+• 4432618610
+• 4432618611
+• 4432618612
+• 4432618613
+• 4432618614
+• 4432618615
+• 4432618616
+• 4432618617
+• 4432618618
+• 4432618619
+• 4432618620
+• 4432618621
+• 4432618622
+• 4432618623
+• 4432618624
+• 4432618625
+• 4432618626
+• 4432618627
+• 4432618628
+
+INSCRIÇÃO ESTADUAL ⎯ 90200896-92
+ATIVIDADE ECONÔMICA ⎯ 2121101 - FABRICACAO DE MEDICAMENTOS ALOPATICOS PARA USO HUMANO
+ATIVIDADE SECUNDÁRIA ⎯ 
+SITUAÇÃO CADASTRAL ⎯ BAIXADO - DESDE 01/2010
+
+ENDEREÇOS: ( 4 - Encontrados)
+
+• AV COLOMBO 5790 CAMP UNIVERSITARIO ZONA 7 MARINGA PR 87020900 - ENDEREÇO DA MATRIZ: SIM
+• AV COLOMBO 5790 CAMP UNIVERSITARIO ZONA 07 MARINGA PR 87020900
+• AV COLOMBO 5790 BL 13 ZONA SETE MARINGA PR 87020900
+• AV COLOMBO 5790 null ZONA SETE MARINGA PR 87020900*
+
+┃━━━━━━━━━━━━━━━━━━━━━━━
+╰━━━━━━━━━━━━━━⬣

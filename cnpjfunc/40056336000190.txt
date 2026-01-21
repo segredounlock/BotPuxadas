@@ -1,0 +1,33 @@
+╭━━━⬣👥 *FUNCIONÁRIOS DO CNPJ* ⬣━━━╮
+┃ *CNPJ:* 40.056.336/0001-90
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯( 3 ) FUNCIONÁRIOS DA EMPRESA - 40056336000190
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 07714478683
+┃ NOME ⎯ EDVALDO HENRIQUE DA SILVA
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO-ADMINISTRADOR
+┃ DATA ADMISSÃO 1 ⎯ 2020-12-09
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-24
+┃ DATA DEMISSÃO 2 ⎯ 2020-12-09
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 09938239633
+┃ NOME ⎯ GUILHERME JUNIO DE LIMA
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO-ADMINISTRADOR
+┃ DATA ADMISSÃO 1 ⎯ 2020-12-09
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-24
+┃ DATA DEMISSÃO 2 ⎯ 2020-12-09
+┃━━━━━━━━━━━━━━━━━━━━━━━
+┃ CPF ⎯ 39830728870
+┃ NOME ⎯ GABRIEL BARBOSA MARANGONI
+┃ FUNÇÃO ⎯ Quadro de Sócios
+┃ CARGO ⎯ SOCIO-ADMINISTRADOR
+┃ DATA ADMISSÃO 1 ⎯ 2020-12-09
+┃ DATA DEMISSÃO 1 ⎯ Sem Informação ou Provável Permanência
+┃ DATA ADMISSÃO 2 ⎯ 2022-05-24
+┃ DATA DEMISSÃO 2 ⎯ 2020-12-09
+┃━━━━━━━━━━━━━━━━━━━━━━━
+╰━━━━━━━━━━━━━━⬣
